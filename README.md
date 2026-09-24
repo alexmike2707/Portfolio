@@ -81,6 +81,7 @@ The findings from this work help mental health workers to gain insight about pat
       <td><a href="https://github.com (Portfolio)"</a></td>
     </tr>
     <tr>
+       <td><a href="https://github.com (Portfolio)/docs/Profile.pdf">Download my CV</a></td>
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/odey-michael">You can connect with me on LinkedIn</a></td>
     </tr>
