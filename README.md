@@ -25,7 +25,7 @@ Excel features; VLOOKUP, Index match, power Query, Pivot Tables
 
 *A glimpse of some of the projects I've worked on.*
 **Churn rate prediction for Redar Telecom company.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Screenshot 2026-09-24 152637.png)
 
 In this project i help a telecom company figure out the likely hood of customers who liable to churn from subscribing to the network.
 
