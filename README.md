@@ -68,14 +68,14 @@ The findings from this work help mental health workers to gain insight about pat
       <td><a href="mailto:alexmike2707@gmail.com">alexmike2707@gmail.com</a></td>
     </tr>
     <tr>
-      <td>📞</td>
     </tr>
     <tr>
       <td>📍</td>
       <td>ABJ, Nigeria, open to Relocation</td>
     </tr>
     <tr>
-      <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+        <td>⬇️</td>
+      <a href="github.com /Portfolio/ Odey .A. Michael Resume.pdf">Download my Resume here (pdf file)</a>
        <td>⬇️</td>
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/odey-michael">You can connect with me on LinkedIn</a></td>
