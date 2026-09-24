@@ -65,7 +65,8 @@ The findings from this work help mental health workers to gain insight about pat
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="alexmike2707@gmail.com"</a></td>
+      <td><a href="mailto:alexmike2707@gmail.com">alexmike2707@gmail.com</a></td>
+    </tr>
     </tr>
     <tr>
       <td>📞</td>
@@ -73,7 +74,7 @@ The findings from this work help mental health workers to gain insight about pat
     </tr>
     <tr>
       <td>📍</td>
-      <td>ABJ, Nigeria</td>
+      <td>ABJ, Nigeria, open to Relocation</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -81,7 +82,7 @@ The findings from this work help mental health workers to gain insight about pat
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/odey-michael">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/odey-michael">You can connect with me on LinkedIn</a></td>
     </tr>
     <tr>
     
