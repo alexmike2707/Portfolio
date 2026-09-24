@@ -32,7 +32,7 @@ In this project i help a telecom company figure out the likely hood of customers
 
 [Read More](https://github.com/alexmike2707/CHURN-PREDICTION/blob/main/Churn%20Prediction%20for%20Reder%20Telcom.ipynb)
 
-**Trends and growth in the data science job space.**
+**Churn rate analysis.**
 
 ![image](Screenshot 2026-09-24 154050.png)
 
