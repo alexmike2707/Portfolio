@@ -34,7 +34,7 @@ In this project i help a telecom company figure out the likely hood of customers
 
 **Trends and growth in the data science job space.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Screenshot 2026-09-24 154050.png)
 
 In this project I analyze the trends, growth and the demands as its stand in the data analytics, data science and the tech industry in general. 
 
@@ -65,7 +65,7 @@ The findings from this work help mental health workers to gain insight about pat
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="alexmike2707@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="alexmike2707@gmail.com"></a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -77,7 +77,7 @@ The findings from this work help mental health workers to gain insight about pat
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com (Portfolio)">Download my CV</a></td>
+      <td><a href="https://github.com (Portfolio)"</a></td>
     </tr>
     <tr>
       <td>🌐</td>
