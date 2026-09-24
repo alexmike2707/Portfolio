@@ -54,7 +54,7 @@ The findings from this work help mental health workers to gain insight about pat
 
 **Patterns and mental health outcome.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Screenshot 2026-09-24 154849.png)
 
 
 
