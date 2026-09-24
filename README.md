@@ -65,11 +65,11 @@ The findings from this work help mental health workers to gain insight about pat
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="alexmike2707@gmail.com"></a></td>
+      <td><a href="alexmike2707@gmail.com"</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <>
     </tr>
     <tr>
       <td>📍</td>
