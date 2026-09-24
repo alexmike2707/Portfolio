@@ -77,8 +77,6 @@ The findings from this work help mental health workers to gain insight about pat
       <td>ABJ, Nigeria, open to Relocation</td>
     </tr>
     <tr>
-      <td>⬇️</td>
-      <td><a href="https://github.com (Portfolio)"</a></td>
     </tr>
     <tr>
        <td>⬇️</td>
