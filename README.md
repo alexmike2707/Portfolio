@@ -42,7 +42,7 @@ In this project I analyze the trends, growth and the demands as its stand in the
 
 **Disecting the trends and growth in the tech industry.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Screenshot 2026-09-24 154050.png)
 
 **I recently conducted an analysis on dataset to uncover pattern of mental health diagnosis.**
 ![image](1 anietie etuk data analytics car project.jpeg)
