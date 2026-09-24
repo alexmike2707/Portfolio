@@ -30,23 +30,32 @@ Excel features; VLOOKUP, Index match, power Query, Pivot Tables
 In this project i help a telecom company figure out the likely hood of customers who liable to churn from subscribing to the network.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://github.com/alexmike2707/CHURN-PREDICTION/blob/main/Churn%20Prediction%20for%20Reder%20Telcom.ipynb)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Trends and growth in the data science job space.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+In this project I analyze the trends, growth and the demands as its stand in the data analytics, data science and the tech industry in general. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://github.com/alexmike2707/THE-FIELD-OF-DATA-SCIENCE-TRENDS-AND-ITS-GROWTH-/blob/main/DATA%20SCIENCE%20JOBS%20DATA%20SET.ipynb)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Disecting the trends and growth in the tech industry.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+**I recently conducted an analysis on dataset to uncover pattern of mental health diagnosis.**
+![image](1 anietie etuk data analytics car project.jpeg)
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+The findings from this work help mental health workers to gain insight about patterns, sentiment psychological indicators and how mental begins to maneifest before degenarating .
+
+
+[Read More](https://github.com/alexmike2707/MENTAL-HEALTH-ANALYSIS/blob/main/MENTAL%20HEALTH%20DATA.ipynb)
+
+**Patterns and mental health outcome.**
+
+![image](2 anietie etuk data analytics sales project.jpg)
+
 
 
 ## CONTACT DETAILS
@@ -56,7 +65,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="alexmike2707@gmail.com">anietieetuk@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -64,22 +73,18 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>ABJ, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://github.com (Portfolio)">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/odey-michael">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+    
 
    
 
