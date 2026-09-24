@@ -74,9 +74,9 @@ The findings from this work help mental health workers to gain insight about pat
       <td>ABJ, Nigeria, open to Relocation</td>
     </tr>
     <tr>
-        <td>⬇️</td>
-      <a href="github.com /Portfolio/ Odey .A. Michael Resume.pdf">Download my Resume here (pdf file)</a>
-       <td>⬇️</td>
+      <td>⬇️</td>
+      <a href="https://github.com /Portfolio/ Odey .A. Michael Resume.pdf">Download my Resume here (pdf file)</a>
+     <td>⬇️</td>
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/odey-michael">You can connect with me on LinkedIn</a></td>
     </tr>
