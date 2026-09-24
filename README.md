@@ -75,10 +75,10 @@ The findings from this work help mental health workers to gain insight about pat
     </tr>
     <tr>
       <td>⬇️</td>
-      <a href="https://github.com /Portfolio/ Odey .A. Michael Resume.pdf">Download my Resume here (pdf file)</a>
+      <a href=" Odey .A. Michael Resume.pdf">Download my Resume here </a>
      <td>⬇️</td>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/odey-michael">You can connect with me on LinkedIn</a></td>
+   <td><a href="https://linkedin.com/in/odey-michael">You can connect with me on LinkedIn</a></td>
     </tr>
     <tr>
     
