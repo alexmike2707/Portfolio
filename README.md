@@ -13,14 +13,14 @@ Hello! I'M Odey Alexander Michael 🤓, a data analyst, a data scientist and a b
 Problem solving and Critical thinking. 
 Trends Forecasting and Predictive modelling, 
 Business Acumen, data story telling and stakeholder collaboration,
-Attention to detail, Report automation, Process optimization Business Intelligence and KPI's Monitoring. 
+Attention to detail, Report automation, Process optimization, Business Intelligence and KPI's Monitoring. 
 
 **- ✅ Technical Skills.**
 Visualization tools power BI, Tableau. 
 Programming Language Python for data analysis. 
 EDA's Jupyter note book. 
 Database querying language SQL. 
-Excel features; VLOOKUP, Index match, power Query, Pivot Tables
+Excel spread sheet; VLOOKUP, Index match, power Query, Pivot Tables
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -30,7 +30,7 @@ Excel features; VLOOKUP, Index match, power Query, Pivot Tables
 **Churn rate prediction for Redar Telecom company.**
 ![image](Screenshot 2026-09-24 152637.png)
 
-In this project I help a telecom company figure out the likely hood of customers who susceptible  to churn from subscribing to the network.
+In this project I help a telecom company figure out the likely tendency of customers who are susceptible  to churning from subscribing to the network.
 
 
 [Read More](https://github.com/alexmike2707/CHURN-PREDICTION/blob/main/Churn%20Prediction%20for%20Reder%20Telcom.ipynb)
@@ -41,7 +41,7 @@ In this project I help a telecom company figure out the likely hood of customers
 **Disecting the trends and growth in the tech industry.**
 ![image](Screenshot 2026-09-24 152637.png)
 
-In this project I analyze the trends, growth and the demands as its stand in the data analytics, data science and the tech industry in general. 
+In this project I analyze the growth, trends and the demands as its stand in the data analytics, data science and the tech industry in general. 
 
 [Read More](https://github.com/alexmike2707/THE-FIELD-OF-DATA-SCIENCE-TRENDS-AND-ITS-GROWTH-/blob/main/DATA%20SCIENCE%20JOBS%20DATA%20SET.ipynb)
 
@@ -49,10 +49,10 @@ In this project I analyze the trends, growth and the demands as its stand in the
 
 
 
-**I recently conducted an analysis on dataset to uncover pattern of mental health diagnosis.**
+**I recently conducted an analysis on a dataset to uncover patterns of mental health diagnosis.**
 ![image](Screenshot 2026-09-24 154849.png)
 
-The findings from this work help mental health workers to gain insight about patterns, sentiment psychological indicators and how mental helth begins to manifest before degenerating .
+The findings from this work help mental health workers to gain insight about patterns, sentiment, psychological indicators and how mental health begins to manifest before degenerating .
 
 
 [Read More](https://github.com/alexmike2707/MENTAL-HEALTH-ANALYSIS/blob/main/MENTAL%20HEALTH%20DATA.ipynb)
