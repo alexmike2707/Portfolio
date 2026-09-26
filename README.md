@@ -10,13 +10,16 @@ Hello! I'M Odey Alexander Michael 🤓, a data analyst, a data scientist and a b
 *I provide in-depth analysis and tailored solutions, unlock growths, optimize processes through data driven approach, modify work-place behaviours for enhance performance and optimum productivity..*
 
 **- ✅ Core Skills.**
-Data cleaning, analysis and interpretation, Trends Forecasting and Predictive modelling, Problem solving, Report automation, Process optimization Business Intelligence and KPI's Monitoring. 
+Problem solving and Critical thinking. 
+Trends Forecasting and Predictive modelling, 
+Business Acumen, data story telling and stakeholder collaboration,
+Attention to detail, Report automation, Process optimization Business Intelligence and KPI's Monitoring. 
 
 **- ✅ Technical Skills.**
-Visualization tools power BI, Advanced Excel, Tableau. 
-Programming Language Python. 
+Visualization tools power BI, Tableau. 
+Programming Language Python for data analysis. 
 EDA's Jupyter note book. 
-Database Management SQL. 
+Database querying language SQL. 
 Excel features; VLOOKUP, Index match, power Query, Pivot Tables
 
 
@@ -69,6 +72,8 @@ The findings from this work help mental health workers to gain insight about pat
       <td><a href="mailto:alexmike2707@gmail.com">alexmike2707@gmail.com</a></td>
     </tr>
     <tr>
+      <td>📞</td>
+      <td>(234) </td>
     </tr>
     <tr>
       <td>📍</td>
@@ -76,10 +81,25 @@ The findings from this work help mental health workers to gain insight about pat
     </tr>
     <tr>
       <td>⬇️</td>
+     <a href=" Odey .A. Michael Resume.pdf/doc">Download my Resume here </a>
+    </tr>
+    <tr>
+      <td>🌐</td>
         <td><a href="https://linkedin.com/in/odey-michael">You can connect with me on LinkedIn</a></td>
-       </tr>
-        <tr>
-    <a href=" Odey .A. Michael Resume.pdf">Download my Resume here </a>
+    </tr>
+    <tr>
+      <td>📺</td>
+      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+    </tr>
+  </tbody>
+</table>
+
+   
+
+
+
+
+
     
     
 
@@ -99,7 +119,6 @@ The findings from this work help mental health workers to gain insight about pat
 
 
    
-
 
 
 
