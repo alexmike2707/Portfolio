@@ -89,7 +89,7 @@ The findings from this work help mental health workers to gain insight about pat
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://github.com/alexmike2707">View my Profile on Github here</a></td>
     </tr>
   </tbody>
 </table>
